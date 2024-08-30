@@ -41,7 +41,7 @@ klyde-stad@outlook.com | (604) 603-4429 | [GitHub](https://github.com/klydestad)
 - Managed a group project using GitHub for version control and collaboration
 
 ### Resonant Frequency vs. Temperature Analysis | Data Science, Excel
-*Jan - Mar 2022*
+*Jan -- Mar 2022*
 - Explored the relationship between increased temperature and frequency of a trumpet
 - Analyzed frequency spectrum data with Excel and found statistically significant results
 
@@ -52,6 +52,7 @@ klyde-stad@outlook.com | (604) 603-4429 | [GitHub](https://github.com/klydestad)
 - Led data collection and analysis for UBC's Canadian Supply Chain Act report, assessing supply chain risks of forced/child labor
 - Conducted and analyzed Workday Report and Excel spend data to reach Indigenous spending goals, identify procurement opportunities, and track KPIs
 - Development and documentation of standard operating procedures and business plans for various projects
+- Created an integrated action tracker to track the progress of tasks, was used as information source for team progress meetings
 
 ### Swim Instructor/Lifeguard | North Vancouver Recreation & Culture
 *Sep 2019 -- Present*
