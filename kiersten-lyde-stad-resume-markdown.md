@@ -9,7 +9,7 @@ klyde-stad@outlook.com | (604) 603-4429 | [GitHub](https://github.com/klydestad)
 **Languages:** Java, R, Python, SQL, JavaScript, LaTeX  
 **Tools/Frameworks:** GitHub, JUnit, JSON, Jupyter, MATLAB, Excel  
 **Web:** HTML, CSS  
-**Environments:** VS Code, IntelliJ IDEA, SQL Workbench
+**Environments:** VS Code, IntelliJ IDEA, SQL Workbench, Overleaf
 
 ## TECHNICAL PROJECTS
 
