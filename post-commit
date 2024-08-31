@@ -1,3 +1,0 @@
-#!/bin/bash
-# Convert .docx to .pdf using libreoffice
-libreoffice --headless --convert-to pdf Kiersten_Lyde-Stad_Resume_42381061.docx --outdir ./pdfs
